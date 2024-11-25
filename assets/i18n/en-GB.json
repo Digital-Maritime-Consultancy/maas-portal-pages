@@ -1,7 +1,7 @@
 {
     "landing": {
         "title": {
-            "serviceName": "Management Portal",
+            "serviceName": "MaaS Portal",
             "environmentName": "environment"
         },
         "button": {
@@ -10,11 +10,11 @@
             "registerInfo": "I want to know more about registration"
         },
         "footer": {
-            "shortIntro": "Management Portal is a website for administrators who manage their resources in ",
+            "shortIntro": "MaaS portal is a website for administrators who manage their resources in ",
             "mirName": "Maritime Identity Registry",
             "namesConnector": " and ",
             "msrName": "Maritime Service Registry",
-            "disclamer": "The Management Portal has developed by Digital Maritime Consultancy ApS."
+            "disclamer": "The MaaS portal has developed by Digital Maritime Consultancy ApS."
         }
     },
     "registrationProcess": {
@@ -36,8 +36,8 @@
             "content": "The administrator sends you an e-mail for approal of request if everything is okay. Remember the given credential in the e-mail is temporary and needs to be replaced by your own password."
         },
         "step4": {
-            "title": "Ready to use Management portal!",
-            "content": "Now you are accessible to Management portal and able to manage your resources in MIR and also service instances in MSR."
+            "title": "Ready to use MaaS portal!",
+            "content": "Now you are accessible to MaaS portal and able to manage your resources in MIR and also service instances in MSR."
         }
     },
     "register": {
@@ -67,8 +67,8 @@
             "secondFunction": "Secondly, Public Key Infrastructure (PKI): The MIR ensures that each MCP entity holds a corresponding cryptographic identity, i.e., a public / private key pair and a certificate with the public key bound to their identity.",
             "thirdFunction": "Thirdly, the MIR provides the infrastructure for authentication, which enables authorization and secure integration of web services, based on the established internet standards (OAUTH 2.0 / OpenID Connect).",
             "portal": {
-                "title": "How to use MIR through MCP Management Portal",
-                "description": "MCP management portal aims to provide a front-end interface to MCP users. Everything in the MCP Management Portal is centered around the organization of the logged in user. Every entity in the Identity Registry section, only has data for the users own organization. An organization’s own entities: vessels, devices, users, services are considered private and will never be shown to others. You can also issue certificates for your assets through a page for an asset."
+                "title": "How to use MIR through MCP MaaS portal",
+                "description": "MCP MaaS portal aims to provide a front-end interface to MCP users. Everything in the MCP MaaS portal is centered around the organization of the logged in user. Every entity in the Identity Registry section, only has data for the users own organization. An organization’s own entities: vessels, devices, users, services are considered private and will never be shown to others. You can also issue certificates for your assets through a page for an asset."
             },
             "howto": {
                 "title": "How to use",
@@ -92,8 +92,8 @@
             "title": "What is Maritime Service Registry",
             "intro": "Maritime Service Registry (MSR) is a registry where maritime stakeholders can register services for others to discover. It is possible to search for services with search parameters like providers, service type, mrn and geographical coverage areas.",
             "portal": {
-                "title": "How to use MSR through MCP Management Portal",
-                "description": "MCP management portal aims to provide a front-end interface to MCP users. Services are registered and able to be discovered under the Service Registry section. You can register and edit your company's services after contact with MSR admin. The search results you get from Search page under the Service Registry will be limited to the MSR that you are registered."
+                "title": "How to use MSR through MCP MaaS portal",
+                "description": "MCP MaaS portal aims to provide a front-end interface to MCP users. Services are registered and able to be discovered under the Service Registry section. You can register and edit your company's services after contact with MSR admin. The search results you get from Search page under the Service Registry will be limited to the MSR that you are registered."
             },
             "howto": {
                 "title": "How to use",
@@ -115,10 +115,10 @@
     "ledger": {
         "about": {
             "title": "What is MSR Ledger",
-            "intro": "Maritime Service Registry Ledger (MSR Ledger)is a distributed ledger for maintaining meta-information of services. The management portal will give you interface to search through the MSR ledger.",
+            "intro": "Maritime Service Registry Ledger (MSR Ledger)is a distributed ledger for maintaining meta-information of services. The MaaS portal will give you interface to search through the MSR ledger.",
             "portal": {
-                "title": "How to use MSR Ledger through MCP Management Portal",
-                "description": "MCP management portal aims to provide a front-end interface to MCP users. Search result will contain both service info and also the MSR that owns it."
+                "title": "How to use MSR Ledger through MCP MaaS portal",
+                "description": "MCP MaaS portal aims to provide a front-end interface to MCP users. Search result will contain both service info and also the MSR that owns it."
             },
             "howto": {
                 "title": "How to use",
